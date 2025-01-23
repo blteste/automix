@@ -8,8 +8,13 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "proxy": "http://localhost:3000",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build",
+     "start": "npm run dev",
   },
+
+  
+
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@radix-ui/react-accordion": "^1.2.2",
