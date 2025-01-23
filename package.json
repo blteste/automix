@@ -9,7 +9,6 @@
     "lint": "eslint .",
     "proxy": "http://localhost:3000",
     "preview": "vite preview",
-    "deploy": "npm run build",
      "start": "npm run dev"
   },
 
