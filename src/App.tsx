@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { X , CheckCircle, DollarSign, Clock, HelpCircle} from 'lucide-react';
 
 import NavBar from "./components/ui/navbar";
